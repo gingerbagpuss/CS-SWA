@@ -1,2 +1,2 @@
-# CS-SWA
-Computer Science at SWA
+# CS-Edu
+Computer Science for education
